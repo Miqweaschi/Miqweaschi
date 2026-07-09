@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🪪 Identità
+### Identità
 
 ```diff
 + [ IDENTITY VERIFIED ]
@@ -26,7 +26,7 @@ Sto costruendo il mio percorso nella **cybersecurity difensiva** un lab alla vol
 
 <br/>
 
-## 🧰 Stack tecnico
+### Stack tecnico
 
 <div align="center">
 
@@ -38,7 +38,7 @@ Sto costruendo il mio percorso nella **cybersecurity difensiva** un lab alla vol
 
 <br/>
 
-## 📈 Attività su GitHub
+### Attività su GitHub
 
 <div align="center">
 <picture>
@@ -47,19 +47,19 @@ Sto costruendo il mio percorso nella **cybersecurity difensiva** un lab alla vol
 </picture>
 </div>
 
-## 🗂️ Progetti attivi
+### Progetti attivi
 
 | | Progetto | Descrizione | Stack |
 |---|---|---|---|
-| 🛡️ | **[Splunk-Distributed-Detection-Lab](https://github.com/Miqweaschi/Splunk-BruteForce-Detection-Lab)** | laboratorio pratico di sicurezza informatica che dimostra come configurare un sistema di monitoraggio Distribuito usando Splunk su Parrot OS  | `Splunk` `SPL` `Parrot OS` |
-| 📡 | **Net_Guard** | Scanner di rete Android | `Flutter` `Dart` |
-| 🎮 | **Proxima** — Apple Foundation Program | Coop multiplayer sci-fi multi-device (Apple TV + iPhone), ambienti 3D in Blender. 🏆 *Best App Award* | `SwiftUI` `tvOS` `iOS` `Blender` |
-| 🤖 | **[Robot](https://github.com/Miqweaschi/Robot)** | Agente autonomo che risolve un labirinto 2D con FSM + logica ACO, difficoltà a scenari | `Java` |
-| 🌐 | **[SkyNetSense](https://github.com/Giggin1/SkyNetSense)** | Web app full-stack, backend Flask + frontend HTML/CSS/JS modulare | `Flask` `JS` |
+|  **[Splunk-Distributed-Detection-Lab](https://github.com/Miqweaschi/Splunk-BruteForce-Detection-Lab)** | laboratorio pratico di sicurezza informatica che dimostra come configurare un sistema di monitoraggio Distribuito usando Splunk su Parrot OS  | `Splunk` `SPL` `Parrot OS` |
+|  **Net_Guard** | Scanner di rete Android | `Flutter` `Dart` |
+|  **Proxima** — Apple Foundation Program | Coop multiplayer sci-fi multi-device (Apple TV + iPhone), ambienti 3D in Blender. 🏆 *Best App Award* | `SwiftUI` `tvOS` `iOS` `Blender` |
+|  **[Robot](https://github.com/Miqweaschi/Robot)** | Agente autonomo che risolve un labirinto 2D con FSM + logica ACO, difficoltà a scenari | `Java` |
+|  **[SkyNetSense](https://github.com/Giggin1/SkyNetSense)** | Web app full-stack, backend Flask + frontend HTML/CSS/JS modulare | `Flask` `JS` |
 
 <br/>
 
-## 🎓 Certificazioni
+### Certificazioni
 
 ```
 [2026] iOS + WatchOS + tvOS Advanced ─ Apple Foundation Program
