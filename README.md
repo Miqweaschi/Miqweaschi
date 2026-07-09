@@ -4,7 +4,7 @@
 
 `LOCATION: CAMPANIA, IT` · `L-31 CS STUDENT`
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-FF003C?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nazzaro-tessitore](https://www.linkedin.com/in/nazzaro-tessitore-54ba56336/))
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-FF003C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazzaro-tessitore-54ba56336/)
 
 </div>
 
