@@ -53,8 +53,8 @@ Sto costruendo il mio percorso nella **cybersecurity difensiva** un lab alla vol
 
 | | Progetto | Descrizione | Stack |
 |---|---|---|---|
-| 🛡️ | **[Splunk-BruteForce-Detection-Lab](https://github.com/Miqweaschi/Splunk-BruteForce-Detection-Lab)** | Rilevamento attacchi brute force SSH via pipeline `rsyslog → auth.log → Splunk`, query SPL custom su IP sospetti (IPv4/IPv6), dashboard dark-theme con refresh live | `Splunk` `SPL` `Parrot OS` |
-| 📡 | **Net_Guard** | Scanner di rete Android: lettura tabella ARP + ping ICMP a batch per device discovery | `Flutter` `Dart` |
+| 🛡️ | **[Splunk-Distributed-Detection-Lab](https://github.com/Miqweaschi/Splunk-BruteForce-Detection-Lab)** | laboratorio pratico di sicurezza informatica che dimostra come configurare un sistema di monitoraggio Distribuito usando Splunk su Parrot OS  | `Splunk` `SPL` `Parrot OS` |
+| 📡 | **Net_Guard** | Scanner di rete Android | `Flutter` `Dart` |
 | 🎮 | **Proxima** — Apple Foundation Program | Coop multiplayer sci-fi multi-device (Apple TV + iPhone), ambienti 3D in Blender. 🏆 *Best App Award* | `SwiftUI` `tvOS` `iOS` `Blender` |
 | 🤖 | **[Robot](https://github.com/Miqweaschi/Robot)** | Agente autonomo che risolve un labirinto 2D con FSM + logica ACO, difficoltà a scenari | `Java` |
 | 🌐 | **[SkyNetSense](https://github.com/Giggin1/SkyNetSense)** | Web app full-stack, backend Flask + frontend HTML/CSS/JS modulare | `Flask` `JS` |
@@ -69,31 +69,6 @@ Sto costruendo il mio percorso nella **cybersecurity difensiva** un lab alla vol
 [2025] Networking Basics             ─ Cisco Networking Academy
 [2023] IT Essentials (HW/SW)         ─ Cisco Networking Academy
 ```
-
-<br/>
-
-## 📊 Statistiche
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Miqweaschi&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF003C&icon_color=00F5FF&text_color=E0E0E0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqweaschi&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF003C&text_color=E0E0E0" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=Miqweaschi&theme=radical&background=0D0221&border=FF003C&stroke=FF003C&ring=00F5FF&fire=FF003C&currStreakLabel=E0E0E0" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-> transmission ended. stay sharp.
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=30&lines=connection+closed.+awaiting+next+commit..." />
-
-</div>
 
 <br/>
 
