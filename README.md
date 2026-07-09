@@ -4,9 +4,7 @@
 
 `LOCATION: CAMPANIA, IT` · `L-31 CS STUDENT`
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-FF003C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazzaro-tessitore)
-[![Email](https://img.shields.io/badge/-EMAIL-1A1A2E?style=flat-square&logo=protonmail&logoColor=FF003C)](mailto:nazzarotessitore48@gmail.com)
-[![GitHub](https://img.shields.io/badge/-MIQWEASCHI-1A1A2E?style=flat-square&logo=github&logoColor=white)](https://github.com/Miqweaschi)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-FF003C?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nazzaro-tessitore](https://www.linkedin.com/in/nazzaro-tessitore-54ba56336/))
 
 </div>
 
@@ -34,7 +32,7 @@ Sto costruendo il mio percorso nella **cybersecurity difensiva** un lab alla vol
 
 <img src="https://skillicons.dev/icons?i=java,c,cpp,python,swift,js,html,css,flask,mysql,dart,docker,linux,blender,git&theme=dark" />
 
-<sub><b>Security & Analytics:</b> Splunk · SPL · Log Analysis · SSH Hardening &nbsp;|&nbsp; <b>Game Dev:</b> Roblox / Lua &nbsp;|&nbsp; <b>Mobile:</b> Flutter/Dart</sub>
+<sub><b>Security & Analytics:</b> Splunk · SPL · Log Analysis · SSH Hardening &nbsp;|&nbsp; <b>Mobile:</b> Flutter/Dart</sub>
 
 </div>
 
@@ -67,6 +65,7 @@ Sto costruendo il mio percorso nella **cybersecurity difensiva** un lab alla vol
 [2026] iOS + WatchOS + tvOS Advanced ─ Apple Foundation Program
 [2025] iOS Foundation Program        ─ Apple Foundation Program
 [2025] Networking Basics             ─ Cisco Networking Academy
+[2023] Introduction to Cybersecuriy  ─ Cisco Networking Academy
 [2023] IT Essentials (HW/SW)         ─ Cisco Networking Academy
 ```
 
