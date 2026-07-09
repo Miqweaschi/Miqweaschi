@@ -1,107 +1,101 @@
 <div align="center">
 
-# Ciao, sono Nazzaro 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF003C&center=true&vCenter=true&width=700&height=70&lines=NAZZARO+TESSITORE;" alt="typing banner" />
 
-### Cybersecurity Enthusiast | Blue Team & SOC Analyst in the making | Full-stack Developer
+`LOCATION: CAMPANIA, IT` · `L-31 CS STUDENT`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazzaro%20Tessitore-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazzaro-tessitore)
-[![Email](https://img.shields.io/badge/Email-nazzarotessitore48%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nazzarotessitore48@gmail.com)
-[![Location](https://img.shields.io/badge/Base-Campania%2C%20Italia-2E8B57?style=flat&logo=googlemaps&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-FF003C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazzaro-tessitore)
+[![Email](https://img.shields.io/badge/-EMAIL-1A1A2E?style=flat-square&logo=protonmail&logoColor=FF003C)](mailto:nazzarotessitore48@gmail.com)
+[![GitHub](https://img.shields.io/badge/-MIQWEASCHI-1A1A2E?style=flat-square&logo=github&logoColor=white)](https://github.com/Miqweaschi)
 
 </div>
 
----
+<br/>
 
-## 🧭 Chi sono
+## 🪪 Identità
 
-Sono uno **studente di Informatica (L-31)** all'Università degli Studi di Napoli "Parthenope", diplomato con **100/100** in Informatica presso l'ISISS Osvaldo Conti.
+```diff
++ [ IDENTITY VERIFIED ]
+  name        : Nazzaro Tessitore
+  role        : Studente Laureando in Informatica — L-31, Università "Parthenope" di Napoli
+  credential  : Diploma tecnico informatico — 100/100
+  primary     : Cybersecurity | Blue Team | SOC Analyst (in training)
+  secondary   : Full-stack Development
+- award       : Best App Award "Alfredo Petrosino" — Apple Foundation Program
+```
 
-Mi sto specializzando nella **cybersecurity difensiva** — SOC Analyst e Blue Team — costruendo un percorso pratico fatto di home lab, SIEM e rilevamento delle minacce. In parallelo coltivo una solida base full-stack, maturata anche grazie all'**Apple Foundation Program**, dove ho lavorato come Full-stack Developer in un team di 8 persone, vincendo il **Best App Award "Alfredo Petrosino"** per il videogioco *Proxima*.
+Sto costruendo il mio percorso nella **cybersecurity difensiva** un lab alla volta — SIEM, log analysis, detection engineering. Prima di questo, mi sono fatto le ossa come full-stack developer nell'**Apple Foundation Program**, in un team di 8 persone, portando a casa un premio per il videogioco *Proxima*.
 
-- 🔭 Attualmente al lavoro sul mio **home lab distribuito Docker + Splunk SIEM**
-- 🛡️ Focus: rilevamento intrusioni, log analysis, SPL, hardening
-- 💻 Amo anche il game dev (Roblox/Lua) e il 3D modeling (Blender)
-- 📚 Studente instancabile: certificazioni Cisco, Apple Foundation Program, self-study continuo
-- 📫 Contattami: **nazzarotessitore48@gmail.com**
+<br/>
 
----
+## 🧰 Stack tecnico
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Linguaggi**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,swift,js,html,css,flask,mysql,dart,docker,linux,blender,git&theme=dark" />
 
-**Web & Database**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<sub><b>Security & Analytics:</b> Splunk · SPL · Log Analysis · SSH Hardening &nbsp;|&nbsp; <b>Game Dev:</b> Roblox / Lua &nbsp;|&nbsp; <b>Mobile:</b> Flutter/Dart</sub>
 
-**Security & Analytics**
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![SPL](https://img.shields.io/badge/-SPL-000000?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/-Networking-0078D7?style=flat-square&logo=wireshark&logoColor=white)
+</div>
 
-**Mobile & Altro**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Roblox](https://img.shields.io/badge/-Roblox%20Lua-000000?style=flat-square&logo=roblox&logoColor=white)
+<br/>
 
----
+## 📈 Attività su GitHub
 
-## 🚀 Progetti in evidenza
+<div align="center">
 
-### 🛡️ [Splunk-BruteForce-Detection-Lab](https://github.com/Miqweaschi/Splunk-BruteForce-Detection-Lab)
-Home lab di sicurezza personale per il rilevamento di attacchi brute force SSH tramite **Splunk** su Parrot OS.
-- Pipeline completa `rsyslog → auth.log → Splunk`
-- Query **SPL** custom per l'identificazione di IP sospetti (IPv4/IPv6)
-- Dashboard dark-theme in XML con refresh automatico ogni 3 secondi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miqweaschi/Miqweaschi/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Miqweaschi/Miqweaschi/output/github-contribution-grid-snake.svg" />
+</picture>
 
-### 📡 Net_Guard
-App Android di network scanning sviluppata in **Flutter/Dart**, con rilevamento dispositivi tramite lettura della tabella ARP e ping ICMP a batch.
 
-### 🎮 [Proxima](https://github.com/Miqweaschi) — Apple Foundation Program
-Videogioco cooperativo multiplayer sci-fi con architettura multi-device (Apple TV + iPhone). Sviluppo completo in **SwiftUI** per iOS/tvOS, modellazione ambienti 3D in **Blender**.
-🏆 *Vincitore Best App Award "Alfredo Petrosino"*
+## 🗂️ Progetti attivi
 
-### 🤖 [Robot](https://github.com/Miqweaschi/Robot) — Progetto Universitario
-Simulazione in **Java** di un robot autonomo che naviga un labirinto 2D tramite **Macchina a Stati Finiti (FSM)** e logica di tipo ACO, con gestione di scenari a difficoltà crescente.
+| | Progetto | Descrizione | Stack |
+|---|---|---|---|
+| 🛡️ | **[Splunk-BruteForce-Detection-Lab](https://github.com/Miqweaschi/Splunk-BruteForce-Detection-Lab)** | Rilevamento attacchi brute force SSH via pipeline `rsyslog → auth.log → Splunk`, query SPL custom su IP sospetti (IPv4/IPv6), dashboard dark-theme con refresh live | `Splunk` `SPL` `Parrot OS` |
+| 📡 | **Net_Guard** | Scanner di rete Android: lettura tabella ARP + ping ICMP a batch per device discovery | `Flutter` `Dart` |
+| 🎮 | **Proxima** — Apple Foundation Program | Coop multiplayer sci-fi multi-device (Apple TV + iPhone), ambienti 3D in Blender. 🏆 *Best App Award* | `SwiftUI` `tvOS` `iOS` `Blender` |
+| 🤖 | **[Robot](https://github.com/Miqweaschi/Robot)** | Agente autonomo che risolve un labirinto 2D con FSM + logica ACO, difficoltà a scenari | `Java` |
+| 🌐 | **[SkyNetSense](https://github.com/Giggin1/SkyNetSense)** | Web app full-stack, backend Flask + frontend HTML/CSS/JS modulare | `Flask` `JS` |
 
-### 🌐 [SkyNetSense](https://github.com/Giggin1/SkyNetSense)
-Web app full-stack con backend **Flask** e frontend HTML/CSS/JS, focus su organizzazione modulare del codice e UI responsive.
-
----
+<br/>
 
 ## 🎓 Certificazioni
 
-- iOS Advanced + WatchOS Advanced + tvOS Advanced — Apple Foundation Program (2026)
-- iOS Foundation Program — Apple Foundation Program (2025)
-- Cisco Networking Academy — Networking Basics (2025)
-- Cisco Networking Academy — IT Essentials: PC Hardware and Software (2023)
+```
+[2026] iOS + WatchOS + tvOS Advanced ─ Apple Foundation Program
+[2025] iOS Foundation Program        ─ Apple Foundation Program
+[2025] Networking Basics             ─ Cisco Networking Academy
+[2023] IT Essentials (HW/SW)         ─ Cisco Networking Academy
+```
 
----
+<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Nazzaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miqweaschi&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miqweaschi&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
+## 📊 Statistiche
 
 <div align="center">
 
-*"Difendere, costruire, imparare — ogni giorno un po' di più."*
+<img src="https://github-readme-stats.vercel.app/api?username=Miqweaschi&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF003C&icon_color=00F5FF&text_color=E0E0E0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqweaschi&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=FF003C&text_color=E0E0E0" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=Miqweaschi&theme=radical&background=0D0221&border=FF003C&stroke=FF003C&ring=00F5FF&fire=FF003C&currStreakLabel=E0E0E0" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+```
+> transmission ended. stay sharp.
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=30&lines=connection+closed.+awaiting+next+commit..." />
+
+</div>
+
+<br/>
+
+---
