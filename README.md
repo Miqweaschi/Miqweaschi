@@ -2,7 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=FF003C&center=true&vCenter=true&width=700&height=70&lines=NAZZARO+TESSITORE;" alt="typing banner" />
 
-`LOCATION: CAMPANIA, IT` · `L-31 CS STUDENT`
+`LOCATION: CAMPANIA, IT` · `L-31 CS STUDENT` ·
+`JUST A TECH`
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-FF003C?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazzaro-tessitore-54ba56336/)
 
