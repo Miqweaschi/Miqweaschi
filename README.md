@@ -16,7 +16,7 @@
 ```diff
 + [ IDENTITY VERIFIED ]
   name        : Nazzaro Tessitore
-  role        : Studente Laureando in Informatica — L-31, Università "Parthenope" di Napoli
+  role        : Studente Laureando in Informatica — L-31, Università "Parthenope" di Napoli / Operatore ControlRoom Lutech
   credential  : Diploma tecnico informatico — 100/100
   primary     : Cybersecurity | Blue Team | SOC Analyst (in training)
   secondary   : Full-stack Development
